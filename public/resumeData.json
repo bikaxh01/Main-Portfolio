@@ -1,0 +1,86 @@
+{
+  "main": {
+    "name": "Bikash Mishra",
+    "occupation": "Student",
+    "description": "I eat, sleep and breathe Tech",
+    "image": "profilepic.jpg",
+    "bio": "Hey, Bikash here! I'm a passionate tech enthusiast focused on building full-stack applications that address real-world problems. I enjoy diving into both front-end and back-end development, crafting solutions that make a tangible impact. Constantly learning and experimenting, I aim to create efficient and innovative software solutions.",
+    "contactmessage": "Get in touch with me !",
+    "email": "mishrabikash202@gmail.com",
+    "phone": "+91 XXXXXXXXXX",
+    "address": {
+      "street": "",
+      "city": "Noida",
+      "state": "Uttar Pardesh",
+      "zip": "XXXX"
+    },
+    "resumedownload": "https://drive.google.com/file/d/12OYK84smKQ4bgagp_T5YrKv64NHmVRnn/view?usp=drive_link",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/contact-bikash/",
+        "className": "Bikash-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/bikaxh01",
+        "className": "bikaxh01-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Noida International University  - Noida",
+        "degree": "Bachelor's Degree, Computer Application",
+        "graduated": "July 2025",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "JSM Tech Enterprises Pvt Ltd",
+        "title": "Full Stack Web Developer",
+        "years": "June 2024 - Present",
+        "description": "Building Business Management Applications"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Mystery Message",
+        "category": "",
+        "image": "MysteryMessage.png"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+     
+    ]
+  }
+}
